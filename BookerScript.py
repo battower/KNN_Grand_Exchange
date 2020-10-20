@@ -1,23 +1,16 @@
-#same as BrokerBooker, except meant to to run automatically.  Makes simulated purchases and makes recommendations based on results as well.
-
-#Buys one of any item KNN analysis says is low price and will rise.  If item is not already owned buy one item at buy price and record to buy+sell tally, record avg price payed
-#last price paid, and number of times item was purchased.
-
-#Sells any item KNN says price is high and will fall.  It item has been purchased, sell item, remove from stock, record price sold at, average profit,
-#and sell price to current buy+sell tally
-
-#"Location: {0:20} Revision {1}".format(Location,Revision)
 
 import BookerScript_Utils as ut
 import BookerJ
 import time
 import datetime
 
+#denial is always good.
 import warnings
 warnings.filterwarnings("ignore")
 
-scriptlog = 'bookerscript_log.txt'
 
+#text log of script's output
+scriptlog = 'bookerscript_log.txt'
 starttime = int(time.time())
 
 #get the items to observe and trade
@@ -33,6 +26,7 @@ curtime = starttime
 cycletime = starttime
 haschecked = False
 
+#Loop forever, offering tips every half hour
 while True:
 
     if not haschecked:
