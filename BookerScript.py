@@ -33,7 +33,7 @@ while True:
 
         bkr.readlogs(48)
         bkr.analyze()
-        buy,sell = bkr.recommend(sens=0.2)
+        buy,sell = bkr.recommend(sens=0.2) #any price change greater that 0.2
         bought, sold = bkr.buysell(buy,sell)
 
         dispstring = ut.display_info(curtime,buy,sell,bought,sold)
