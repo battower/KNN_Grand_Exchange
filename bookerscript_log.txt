@@ -1,0 +1,2161 @@
+
+------------------------------------
+2020-10-19 03:06:01
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.400
+Air_rune @ 4.0g 0.000 -> 0.360
+Mithril_dart @ 5.0g 0.000 -> 0.378
+Pot_of_flour @ 115.0g 0.105 -> 0.330
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Bronze_arrow @ 6.0g 1.000 -> 0.820
+Feather @ 3.0g 1.000 -> 0.360
+Pure_essence @ 3.0g 1.000 -> 0.520
+Rune_arrow @ 47.0g 0.500 -> 0.550
+Flax @ 6.0g 0.667 -> 0.613
+Steel_arrow @ 28.0g 0.833 -> 0.672
+Law_rune @ 109.0g 0.000 -> 0.187
+Death_rune @ 197.0g 1.000 -> 0.800
+Zulrah's_scales @ 176.0g 0.667 -> 0.580
+Adamant_arrow @ 36.0g 0.667 -> 0.653
+Gold_bar @ 72.0g 0.500 -> 0.493
+Adamant_dart @ 98.0g 0.818 -> 0.741
+Lobster @ 171.0g 0.611 -> 0.644
+Astral_rune @ 166.0g 0.900 -> 0.736
+Coal @ 184.0g 0.667 -> 0.543
+Chaos_rune @ 55.0g 1.000 -> 0.856
+Broad_bolts @ 57.0g 0.000 -> 0.094
+Cosmic_rune @ 106.0g 0.000 -> -0.125
+Monkfish @ 382.0g 0.625 -> 0.518
+Shark @ 718.0g 0.900 -> 0.847
+Iron_ore @ 78.0g 0.333 -> 0.294
+Blood_rune @ 402.0g 0.333 -> 0.482
+Iron_bar @ 128.0g 0.167 -> 0.209
+Snape_grass @ 252.0g 0.312 -> 0.388
+Yew_logs @ 256.0g 0.000 -> 0.169
+Soul_rune @ 143.0g 0.875 -> 0.852
+Unpowered_orb @ 87.0g 0.267 -> 0.235
+Bow_string @ 91.0g 0.769 -> 0.766
+Steel_bar @ 396.0g 0.500 -> 0.537
+Adamant_bolts @ 186.0g 0.400 -> 0.366
+Gold_ore @ 142.0g 0.250 -> 0.281
+Logs @ 43.0g 0.875 -> 0.842
+Impling_jar @ 694.0g 0.483 -> 0.415
+Rune_dart @ 946.0g 0.922 -> 0.870
+Ruby_dragon_bolts_(e) @ 942.0g 1.000 -> 0.478
+Magic_longbow_(u) @ 1166.0g 0.813 -> 0.946
+Yew_longbow @ 467.0g 0.500 -> 0.521
+Teleport_to_house @ 458.0g 0.458 -> 0.415
+Anglerfish @ 1573.0g 0.029 -> 0.146
+Adamantite_ore @ 1000.0g 0.962 -> 0.759
+Black_dragonhide @ 2926.0g 0.000 -> 0.012
+Swordfish @ 427.0g 0.950 -> 0.916
+Blue_dragonhide @ 1714.0g 0.952 -> 0.844
+Dragonstone_bolts_(e) @ 466.0g 1.000 -> 0.812
+Dragon_bones @ 2071.0g 0.605 -> 0.608
+Ranarr_weed @ 6782.0g 0.512 -> 0.493
+Manta_ray @ 1212.0g 0.447 -> 0.627
+Red_dragonhide @ 2311.0g 1.000 -> 0.888
+Prayer_potion(4) @ 8917.0g 0.806 -> 0.804
+Super_restore(4) @ 10002.0g 0.041 -> 0.189
+Energy_potion(4) @ 533.0g 0.153 -> 0.170
+Ranging_potion(4) @ 403.0g 0.323 -> 0.321
+Snapdragon @ 8305.0g 0.025 -> 0.120
+Saradomin_brew(4) @ 7344.0g 0.097 -> 0.105
+Stamina_potion(4) @ 6135.0g 0.895 -> 0.890
+
+------------------------------------
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 03:36:08
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.520
+Pure_essence @ 2.0g 0.000 -> 0.600
+Mithril_dart @ 5.0g 0.000 -> 0.378
+Broad_bolts @ 58.0g 0.200 -> 0.416
+Battlestaff @ 8107.0g 0.000 -> 0.215
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.600
+Water_rune @ 5.0g 1.000 -> 0.520
+Bronze_arrow @ 6.0g 1.000 -> 0.800
+Earth_rune @ 5.0g 1.000 -> 0.760
+Feather @ 3.0g 1.000 -> 0.440
+Rune_arrow @ 47.0g 0.500 -> 0.570
+Flax @ 6.0g 0.667 -> 0.633
+Revenant_ether @ 173.0g 0.500 -> 0.700
+Nature_rune @ 207.0g 0.200 -> 0.319
+Steel_arrow @ 28.0g 0.833 -> 0.672
+Law_rune @ 110.0g 0.000 -> 0.176
+Death_rune @ 197.0g 1.000 -> 0.800
+Zulrah's_scales @ 177.0g 0.833 -> 0.660
+Adamant_arrow @ 36.0g 0.667 -> 0.635
+Gold_bar @ 73.0g 0.571 -> 0.553
+Adamant_dart @ 102.0g 1.000 -> 0.857
+Lobster @ 172.0g 0.667 -> 0.680
+Coal @ 184.0g 0.667 -> 0.543
+Soft_clay @ 111.0g 0.333 -> 0.428
+Chaos_rune @ 54.0g 0.750 -> 0.685
+Grapes @ 42.0g 0.500 -> 0.377
+Cosmic_rune @ 108.0g 0.200 -> 0.165
+Monkfish @ 382.0g 0.625 -> 0.521
+Pot_of_flour @ 116.0g 0.132 -> 0.326
+Shark @ 716.0g 0.727 -> 0.690
+Iron_ore @ 78.0g 0.333 -> 0.268
+Blood_rune @ 406.0g 1.000 -> 0.698
+Iron_bar @ 128.0g 0.167 -> 0.209
+Yew_logs @ 270.0g 0.250 -> 0.254
+Soul_rune @ 143.0g 0.875 -> 0.852
+Unpowered_orb @ 84.0g 0.125 -> 0.230
+Bow_string @ 92.0g 0.846 -> 0.770
+Steel_bar @ 397.0g 0.542 -> 0.558
+Adamant_bolts @ 186.0g 0.400 -> 0.418
+Oak_plank @ 483.0g 0.923 -> 0.685
+Gold_ore @ 142.0g 0.250 -> 0.281
+Logs @ 41.0g 0.625 -> 0.582
+Impling_jar @ 694.0g 0.483 -> 0.420
+Air_battlestaff @ 8886.0g 1.000 -> 0.820
+Diamond_bolts_(e) @ 313.0g 0.625 -> 0.548
+Ruby_dragon_bolts_(e) @ 942.0g 1.000 -> 0.478
+Magic_longbow_(u) @ 1185.0g 0.918 -> 1.002
+Teleport_to_house @ 459.0g 0.500 -> 0.512
+Anglerfish @ 1579.0g 0.200 -> 0.290
+Magic_logs @ 980.0g 0.000 -> 0.148
+Adamantite_ore @ 999.0g 0.952 -> 0.779
+Black_dragonhide @ 2928.0g 0.000 -> 0.035
+Swordfish @ 424.0g 0.800 -> 0.732
+Blue_dragonhide @ 1712.0g 0.857 -> 0.844
+Dragonstone_bolts_(e) @ 466.0g 1.000 -> 0.824
+Dragon_bones @ 2073.0g 0.651 -> 0.682
+Ranarr_weed @ 6797.0g 0.686 -> 0.616
+Kwuarm @ 1417.0g 0.500 -> 0.453
+Manta_ray @ 1213.0g 0.474 -> 0.490
+Red_dragonhide @ 2308.0g 1.000 -> 0.869
+Prayer_potion(4) @ 8922.0g 0.881 -> 0.379
+Super_restore(4) @ 9985.0g 0.000 -> 0.156
+Prayer_potion(3) @ 6656.0g 0.775 -> 0.737
+Ranging_potion(4) @ 404.0g 0.355 -> 0.429
+Saradomin_brew(4) @ 7345.0g 0.075 -> 0.048
+Stamina_potion(4) @ 6108.0g 0.776 -> 0.795
+
+------------------------------------
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 04:06:21
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.360
+Fire_rune @ 4.0g 0.000 -> 0.480
+Revenant_ether @ 173.0g 0.500 -> 0.720
+Mithril_dart @ 5.0g 0.000 -> 0.378
+Battlestaff @ 8107.0g 0.000 -> 0.215
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.440
+Water_rune @ 5.0g 1.000 -> 0.520
+Bronze_arrow @ 6.0g 1.000 -> 0.800
+Feather @ 3.0g 1.000 -> 0.320
+Rune_arrow @ 48.0g 0.750 -> 0.720
+Flax @ 6.0g 0.667 -> 0.633
+Steel_arrow @ 29.0g 1.000 -> 0.622
+Law_rune @ 113.0g 0.500 -> 0.533
+Death_rune @ 196.0g 0.667 -> 0.593
+Zulrah's_scales @ 178.0g 1.000 -> 0.680
+Adamant_arrow @ 36.0g 0.667 -> 0.635
+Gold_bar @ 73.0g 0.571 -> 0.505
+Adamant_dart @ 102.0g 1.000 -> 0.843
+Coal @ 184.0g 0.667 -> 0.529
+Soft_clay @ 112.0g 0.444 -> 0.479
+Chaos_rune @ 54.0g 0.750 -> 0.681
+Broad_bolts @ 57.0g 0.000 -> 0.173
+Cosmic_rune @ 108.0g 0.200 -> 0.168
+Monkfish @ 383.0g 0.750 -> 0.714
+Pot_of_flour @ 118.0g 0.184 -> 0.297
+Shark @ 715.0g 0.636 -> 0.568
+Iron_ore @ 78.0g 0.333 -> 0.268
+Blood_rune @ 403.0g 0.500 -> 0.487
+Iron_bar @ 129.0g 0.333 -> 0.434
+Yew_logs @ 270.0g 0.091 -> 0.144
+Soul_rune @ 143.0g 0.875 -> 0.852
+Unpowered_orb @ 84.0g 0.125 -> 0.232
+Bow_string @ 91.0g 0.769 -> 0.764
+Adamant_dart_tip @ 193.0g 0.333 -> 0.476
+Steel_bar @ 397.0g 0.542 -> 0.540
+Adamant_bolts @ 186.0g 0.400 -> 0.386
+Oak_plank @ 483.0g 0.923 -> 0.760
+Logs @ 41.0g 0.625 -> 0.582
+Impling_jar @ 691.0g 0.431 -> 0.393
+Rune_dart @ 944.0g 0.882 -> 0.856
+Diamond_bolts_(e) @ 314.0g 0.750 -> 0.742
+Ruby_dragon_bolts_(e) @ 941.0g 0.986 -> 0.478
+Magic_longbow_(u) @ 1184.0g 0.912 -> 1.006
+Teleport_to_house @ 458.0g 0.458 -> 0.382
+Anglerfish @ 1587.0g 0.429 -> 0.401
+Magic_logs @ 980.0g 0.000 -> 0.153
+Adamantite_ore @ 999.0g 0.952 -> 0.406
+Black_dragonhide @ 2928.0g 0.000 -> 0.025
+Swordfish @ 424.0g 0.800 -> 0.707
+Blue_dragonhide @ 1710.0g 0.762 -> 0.811
+Dragonstone_bolts_(e) @ 466.0g 1.000 -> 0.824
+Dragon_bones @ 2075.0g 0.698 -> 0.890
+Ranarr_weed @ 6793.0g 0.640 -> 0.552
+Kwuarm @ 1386.0g 0.304 -> 0.400
+Manta_ray @ 1219.0g 0.632 -> 0.723
+Red_dragonhide @ 2305.0g 0.893 -> 0.782
+Prayer_potion(4) @ 8924.0g 0.910 -> 0.374
+Super_restore(4) @ 10045.0g 0.090 -> 0.198
+Ranging_potion(4) @ 401.0g 0.258 -> -0.135
+Saradomin_brew(4) @ 7328.0g 0.021 -> 0.104
+Stamina_potion(4) @ 6099.0g 0.737 -> 0.705
+
+------------------------------------
+Broad_bolts +/ -inf
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+
+------------------------------------
+2020-10-19 04:36:28
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.440
+Mithril_dart @ 5.0g 0.000 -> 0.378
+Pot_of_flour @ 111.0g 0.000 -> 0.320
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.440
+Water_rune @ 5.0g 1.000 -> 0.520
+Bronze_arrow @ 6.0g 1.000 -> 0.800
+Feather @ 3.0g 1.000 -> 0.320
+Rune_arrow @ 48.0g 0.750 -> 0.710
+Flax @ 6.0g 0.667 -> 0.633
+Revenant_ether @ 174.0g 1.000 -> 0.844
+Steel_arrow @ 28.0g 1.000 -> 0.637
+Law_rune @ 114.0g 0.750 -> 0.646
+Death_rune @ 196.0g 0.667 -> 0.593
+Zulrah's_scales @ 178.0g 1.000 -> 0.672
+Gold_bar @ 73.0g 0.571 -> 0.505
+Adamant_dart @ 100.0g 1.000 -> 0.821
+Lobster @ 175.0g 0.833 -> 0.683
+Astral_rune @ 163.0g 0.600 -> 0.676
+Oak_logs @ 59.0g 1.000 -> 0.705
+Coal @ 184.0g 0.667 -> 0.551
+Soft_clay @ 113.0g 0.556 -> 0.552
+Chaos_rune @ 54.0g 0.750 -> 0.662
+Broad_bolts @ 58.0g 0.200 -> 0.385
+Cosmic_rune @ 108.0g 0.200 -> 0.219
+Monkfish @ 384.0g 0.875 -> 0.741
+Shark @ 719.0g 1.000 -> 0.877
+Iron_ore @ 78.0g 0.333 -> 0.268
+Blood_rune @ 403.0g 0.500 -> 0.487
+Iron_bar @ 127.0g 0.000 -> 0.082
+Yew_logs @ 274.0g 0.164 -> 0.240
+Soul_rune @ 143.0g 0.875 -> 0.852
+Unpowered_orb @ 91.0g 0.562 -> 0.484
+Bow_string @ 91.0g 0.769 -> 0.764
+Steel_bar @ 397.0g 0.542 -> 0.520
+Adamant_bolts @ 186.0g 0.400 -> 0.386
+Oak_plank @ 485.0g 1.000 -> 0.760
+Logs @ 41.0g 0.625 -> 0.582
+Impling_jar @ 688.0g 0.379 -> 0.377
+Rune_dart @ 946.0g 0.922 -> 0.857
+Teleport_to_house @ 458.0g 0.458 -> 0.393
+Dragon_arrow @ 665.0g 0.457 -> 0.543
+Anglerfish @ 1594.0g 0.629 -> 0.582
+Irit_leaf @ 699.0g 0.716 -> 0.788
+Magic_logs @ 981.0g 0.000 -> 0.160
+Adamantite_ore @ 1002.0g 0.981 -> 0.406
+Black_dragonhide @ 2929.0g 0.048 -> 0.051
+Swordfish @ 422.0g 0.700 -> 0.678
+Blue_dragonhide @ 1710.0g 0.762 -> 0.811
+Dragonstone_bolts_(e) @ 466.0g 1.000 -> 0.824
+Dragon_bones @ 2069.0g 0.558 -> 0.570
+Ranarr_weed @ 6799.0g 0.709 -> 0.654
+Manta_ray @ 1222.0g 0.711 -> 0.669
+Red_dragonhide @ 2295.0g 0.536 -> 0.472
+Prayer_potion(4) @ 8923.0g 0.896 -> 0.344
+Energy_potion(4) @ 529.0g 0.097 -> 0.123
+Ranging_potion(4) @ 403.0g 0.323 -> 0.321
+Saradomin_brew(4) @ 7327.0g 0.019 -> 0.048
+Stamina_potion(4) @ 6113.0g 0.798 -> 0.806
+
+------------------------------------
+Broad_bolts +/ -inf
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+
+------------------------------------
+2020-10-19 05:04:56
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.320
+Fire_rune @ 4.0g 0.000 -> 0.440
+Feather @ 2.0g 0.000 -> 0.280
+Mithril_dart @ 5.0g 0.000 -> 0.280
+Pot_of_flour @ 111.0g 0.000 -> 0.320
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Air_rune @ 5.0g 1.000 -> 0.400
+Steel_arrow @ 28.0g 1.000 -> 0.622
+Death_rune @ 197.0g 1.000 -> 0.797
+Zulrah's_scales @ 178.0g 1.000 -> 0.672
+Jug_of_water @ 40.0g 1.000 -> 0.477
+Oak_logs @ 59.0g 1.000 -> 0.713
+Oak_plank @ 484.0g 1.000 -> 0.774
+Adamantite_ore @ 1004.0g 1.000 -> 0.406
+
+------------------------------------
+
+Booker bought: Mind_rune, Fire_rune, Feather, Mithril_dart, Pot_of_flour, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 05:35:03
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.560
+Fire_rune @ 4.0g 0.000 -> 0.400
+Feather @ 2.0g 0.000 -> 0.320
+Mithril_dart @ 5.0g 0.000 -> 0.280
+Pot_of_flour @ 111.0g 0.000 -> 0.320
+Ranging_potion(4) @ 393.0g 0.000 -> 0.319
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Air_rune @ 5.0g 1.000 -> 0.400
+Steel_arrow @ 28.0g 1.000 -> 0.622
+Zulrah's_scales @ 177.0g 1.000 -> 0.680
+Jug_of_water @ 40.0g 1.000 -> 0.477
+Oak_logs @ 59.0g 1.000 -> 0.705
+Oak_plank @ 483.0g 1.000 -> 0.774
+Adamantite_ore @ 1003.0g 1.000 -> 0.406
+Prayer_potion(4) @ 8912.0g 0.731 -> 0.321
+
+------------------------------------
+
+Booker bought: Ranging_potion(4), 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 06:05:09
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.400
+Feather @ 2.0g 0.000 -> 0.240
+Mithril_dart @ 5.0g 0.000 -> 0.280
+Pot_of_flour @ 111.0g 0.000 -> 0.320
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Air_rune @ 5.0g 1.000 -> 0.400
+Steel_nails @ 21.0g 1.000 -> 0.769
+Steel_arrow @ 28.0g 1.000 -> 0.622
+Zulrah's_scales @ 177.0g 1.000 -> 0.690
+Jug_of_water @ 40.0g 1.000 -> 0.477
+Oak_logs @ 59.0g 1.000 -> 0.705
+Oak_plank @ 483.0g 1.000 -> 0.760
+Adamantite_ore @ 1003.0g 1.000 -> 0.406
+Dragonstone_bolts_(e) @ 465.0g 1.000 -> 0.795
+Prayer_potion(4) @ 8912.0g 0.731 -> 0.321
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 06:35:16
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.400
+Feather @ 2.0g 0.000 -> 0.240
+Law_rune @ 111.0g 0.000 -> 0.225
+Mithril_dart @ 5.0g 0.000 -> 0.418
+Pot_of_flour @ 111.0g 0.000 -> 0.320
+Blood_rune @ 400.0g 0.000 -> 0.242
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Air_rune @ 5.0g 1.000 -> 0.280
+Pure_essence @ 3.0g 1.000 -> 0.720
+Revenant_ether @ 174.0g 1.000 -> 0.737
+Steel_arrow @ 28.0g 1.000 -> 0.637
+Zulrah's_scales @ 177.0g 1.000 -> 0.680
+Adamant_arrow @ 36.0g 0.667 -> 0.431
+Oak_logs @ 59.0g 1.000 -> 0.705
+Oak_plank @ 481.0g 1.000 -> 0.671
+Plank @ 288.0g 0.818 -> 0.092
+Adamantite_ore @ 999.0g 0.961 -> 0.406
+Dragonstone_bolts_(e) @ 465.0g 1.000 -> 0.798
+Kwuarm @ 1496.0g 1.000 -> 0.454
+
+------------------------------------
+
+Booker bought: Law_rune, Blood_rune, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 07:05:23
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.400
+Feather @ 2.0g 0.000 -> 0.320
+Swamp_tar @ 7.0g 0.200 -> 0.447
+Pot_of_flour @ 113.0g 0.000 -> 0.320
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Pure_essence @ 3.0g 1.000 -> 0.680
+Flax @ 7.0g 1.000 -> 0.793
+Steel_nails @ 21.0g 1.000 -> 0.769
+Revenant_ether @ 174.0g 1.000 -> 0.737
+Steel_arrow @ 28.0g 1.000 -> 0.655
+Zulrah's_scales @ 176.0g 1.000 -> 0.700
+Oak_logs @ 58.0g 1.000 -> 0.705
+Oak_plank @ 475.0g 1.000 -> 0.774
+Plank @ 288.0g 0.818 -> 0.073
+Adamantite_ore @ 998.0g 0.951 -> 0.406
+Dragonstone_bolts_(e) @ 465.0g 1.000 -> 0.785
+Kwuarm @ 1416.0g 0.709 -> 0.454
+
+------------------------------------
+
+Booker bought: Swamp_tar, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 07:35:30
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Feather @ 2.0g 0.000 -> 0.400
+Swamp_tar @ 7.0g 0.200 -> 0.447
+Mithril_dart @ 5.0g 0.000 -> 0.398
+Pot_of_flour @ 114.0g 0.028 -> 0.320
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.600
+Pure_essence @ 3.0g 1.000 -> 0.600
+Flax @ 7.0g 1.000 -> 0.600
+Steel_nails @ 21.0g 1.000 -> 0.772
+Revenant_ether @ 174.0g 1.000 -> 0.737
+Zulrah's_scales @ 175.0g 0.833 -> 0.600
+Oak_logs @ 57.0g 1.000 -> 0.705
+Oak_plank @ 475.0g 1.000 -> 0.678
+Teleport_to_house @ 470.0g 0.958 -> 0.737
+Dragonstone_bolts_(e) @ 464.0g 1.000 -> 0.800
+Kwuarm @ 1421.0g 0.755 -> 0.454
+Prayer_potion(4) @ 8930.0g 0.615 -> 0.397
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 08:05:37
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Swamp_tar @ 7.0g 0.200 -> 0.447
+Mithril_dart @ 5.0g 0.000 -> 0.340
+Adamant_dart @ 80.0g 0.000 -> 0.315
+Pot_of_flour @ 116.0g 0.083 -> 0.336
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Earth_rune @ 5.0g 1.000 -> 0.760
+Pure_essence @ 3.0g 1.000 -> 0.720
+Steel_nails @ 21.0g 1.000 -> 0.774
+Revenant_ether @ 174.0g 1.000 -> 0.737
+Zulrah's_scales @ 176.0g 1.000 -> 0.653
+Gold_bar @ 79.0g 1.000 -> 0.788
+Jug_of_water @ 32.0g 0.579 -> 0.297
+Oak_logs @ 57.0g 1.000 -> 0.705
+Air_battlestaff @ 8880.0g 1.000 -> 0.628
+Prayer_potion(4) @ 8930.0g 0.588 -> 0.320
+
+------------------------------------
+
+Booker bought: Adamant_dart, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 08:35:43
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.520
+Fire_rune @ 4.0g 0.000 -> 0.440
+Thread @ 8.0g 0.000 -> 0.420
+Swamp_tar @ 7.0g 0.200 -> 0.447
+Pot_of_flour @ 116.0g 0.083 -> 0.336
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.600
+Water_rune @ 5.0g 1.000 -> 0.600
+Feather @ 3.0g 1.000 -> 0.480
+Pure_essence @ 3.0g 1.000 -> 0.720
+Revenant_ether @ 174.0g 1.000 -> 0.737
+Zulrah's_scales @ 176.0g 1.000 -> 0.631
+Tuna @ 81.0g 0.667 -> 0.433
+Plank @ 286.0g 0.636 -> 0.120
+Air_battlestaff @ 8879.0g 0.875 -> 0.658
+Prayer_potion(4) @ 8930.0g 0.588 -> 0.325
+Energy_potion(4) @ 588.0g 0.917 -> 0.629
+
+------------------------------------
+
+Booker bought: Air_rune, Thread, 
+Booker sold: Mind_rune, Feather, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 09:05:49
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.240
+Fire_rune @ 4.0g 0.000 -> 0.400
+Thread @ 8.0g 0.000 -> 0.380
+Pot_of_flour @ 116.0g 0.083 -> 0.336
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.360
+Water_rune @ 5.0g 1.000 -> 0.600
+Feather @ 3.0g 1.000 -> 0.520
+Pure_essence @ 3.0g 1.000 -> 0.720
+Zulrah's_scales @ 175.0g 0.917 -> 0.653
+Tuna @ 81.0g 0.667 -> 0.400
+Cannonball @ 140.0g 1.000 -> 0.794
+Gold_bar @ 75.0g 1.000 -> 0.793
+Unpowered_orb @ 98.0g 1.000 -> 0.667
+Plank @ 286.0g 0.636 -> 0.120
+Air_battlestaff @ 8879.0g 0.875 -> 0.658
+Teleport_to_house @ 470.0g 0.958 -> 0.729
+Prayer_potion(4) @ 8925.0g 0.544 -> 0.307
+Energy_potion(4) @ 587.0g 0.903 -> 0.649
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 09:35:55
+------------------------------------
+
+BUY:
+
+Thread @ 8.0g 0.000 -> 0.380
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.440
+Water_rune @ 5.0g 1.000 -> 0.600
+Feather @ 3.0g 1.000 -> 0.520
+Pure_essence @ 3.0g 1.000 -> 0.720
+Steel_arrow @ 28.0g 1.000 -> 0.627
+Zulrah's_scales @ 175.0g 0.917 -> 0.653
+Cannonball @ 140.0g 1.000 -> 0.794
+Oak_logs @ 57.0g 1.000 -> 0.705
+Air_battlestaff @ 8879.0g 0.875 -> 0.658
+Teleport_to_house @ 470.0g 0.958 -> 0.729
+Adamantite_ore @ 985.0g 0.633 -> 0.424
+Ranarr_potion_(unf) @ 6963.0g 0.815 -> 0.582
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 10:06:01
+------------------------------------
+
+BUY:
+
+Water_rune @ 4.0g 0.000 -> 0.680
+Thread @ 8.0g 0.000 -> 0.380
+Pot_of_flour @ 116.0g 0.083 -> 0.336
+Gold_ore @ 142.0g 0.000 -> 0.205
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.440
+Feather @ 3.0g 1.000 -> 0.520
+Pure_essence @ 3.0g 1.000 -> 0.720
+Zulrah's_scales @ 174.0g 0.833 -> 0.507
+Oak_logs @ 57.0g 1.000 -> 0.705
+Coal @ 184.0g 0.800 -> 0.514
+Unpowered_orb @ 93.0g 0.917 -> 0.426
+Air_battlestaff @ 8879.0g 0.875 -> 0.646
+
+------------------------------------
+
+Booker bought: Water_rune, Gold_ore, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 10:36:07
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.400
+Water_rune @ 4.0g 0.000 -> 0.640
+Air_rune @ 4.0g 0.000 -> 0.240
+Pot_of_flour @ 116.0g 0.083 -> 0.336
+Gold_ore @ 142.0g 0.000 -> 0.205
+
+SELL
+
+Earth_rune @ 5.0g 1.000 -> 0.760
+Feather @ 3.0g 1.000 -> 0.560
+Zulrah's_scales @ 173.0g 0.750 -> 0.538
+Oak_logs @ 57.0g 1.000 -> 0.705
+Coal @ 184.0g 0.857 -> 0.497
+Unpowered_orb @ 93.0g 0.917 -> 0.426
+Air_battlestaff @ 8879.0g 0.875 -> 0.646
+Energy_potion(4) @ 586.0g 0.889 -> 0.661
+
+------------------------------------
+
+Booker bought: Mind_rune, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 11:06:14
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.440
+Air_rune @ 4.0g 0.000 -> 0.520
+Gold_ore @ 142.0g 0.000 -> 0.205
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Earth_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.320
+Tuna @ 81.0g 0.667 -> 0.393
+Cannonball @ 140.0g 1.000 -> 0.794
+Oak_logs @ 57.0g 1.000 -> 0.705
+Coal @ 183.0g 0.778 -> 0.454
+Prayer_potion(4) @ 8924.0g 0.535 -> 0.312
+
+------------------------------------
+
+Booker bought: 
+Booker sold: Water_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 11:36:21
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.440
+Water_rune @ 4.0g 0.000 -> 0.680
+Air_rune @ 4.0g 0.000 -> 0.520
+Magic_logs @ 988.0g 0.300 -> 0.875
+Mahogany_plank @ 2252.0g 0.304 -> 0.552
+
+SELL
+
+Earth_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.320
+Cannonball @ 140.0g 1.000 -> 0.794
+Jug_of_water @ 38.0g 0.895 -> 0.563
+Amethyst_arrow @ 164.0g 1.000 -> 0.791
+Oak_logs @ 56.0g 1.000 -> 0.705
+Coal @ 183.0g 0.778 -> 0.469
+Broad_bolts @ 62.0g 1.000 -> 0.734
+Prayer_potion(4) @ 8924.0g 0.535 -> 0.312
+
+------------------------------------
+
+Booker bought: Water_rune, Magic_logs, Mahogany_plank, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 12:06:28
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.440
+Water_rune @ 4.0g 0.000 -> 0.640
+Air_rune @ 4.0g 0.000 -> 0.360
+Thread @ 8.0g 0.000 -> 0.380
+Swamp_tar @ 7.0g 0.200 -> 0.447
+Magic_logs @ 988.0g 0.300 -> 0.875
+Mahogany_plank @ 2252.0g 0.304 -> 0.552
+
+SELL
+
+Earth_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.320
+Steel_arrow @ 28.0g 1.000 -> 0.622
+Jug_of_water @ 34.0g 0.684 -> 0.483
+Oak_logs @ 56.0g 1.000 -> 0.705
+Coal @ 184.0g 0.889 -> 0.492
+Air_orb @ 1080.0g 0.808 -> 0.504
+Air_battlestaff @ 8879.0g 0.875 -> 0.646
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 12:36:35
+------------------------------------
+
+BUY:
+
+Thread @ 8.0g 0.000 -> 0.380
+Earth_rune @ 4.0g 0.000 -> 0.560
+Swamp_tar @ 6.0g 0.000 -> 0.447
+Rune_arrow @ 45.0g 0.000 -> 0.234
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.320
+Water_rune @ 5.0g 1.000 -> 0.720
+Feather @ 3.0g 1.000 -> 0.320
+Pure_essence @ 3.0g 1.000 -> 0.600
+Oak_logs @ 56.0g 1.000 -> 0.705
+Coal @ 185.0g 1.000 -> 0.464
+Clay @ 94.0g 1.000 -> 0.743
+Plank @ 287.0g 0.727 -> 0.099
+Air_battlestaff @ 8879.0g 0.875 -> 0.650
+
+------------------------------------
+
+Booker bought: Earth_rune, Rune_arrow, 
+Booker sold: Mind_rune, Water_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 13:06:42
+------------------------------------
+
+BUY:
+
+Thread @ 8.0g 0.000 -> 0.320
+Earth_rune @ 4.0g 0.000 -> 0.600
+Rune_arrow @ 45.0g 0.000 -> 0.207
+Lobster @ 160.0g 0.048 -> 0.283
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.320
+Water_rune @ 5.0g 1.000 -> 0.640
+Air_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.320
+Pure_essence @ 3.0g 1.000 -> 0.600
+Adamant_arrow @ 36.0g 0.667 -> 0.431
+Oak_logs @ 56.0g 1.000 -> 0.705
+Coal @ 184.0g 0.889 -> 0.492
+Clay @ 94.0g 1.000 -> 0.744
+Air_battlestaff @ 8880.0g 1.000 -> 0.628
+Ruby_dragon_bolts_(e) @ 937.0g 0.922 -> 0.478
+Prayer_potion(4) @ 8927.0g 0.561 -> 0.297
+
+------------------------------------
+
+Booker bought: Lobster, 
+Booker sold: Air_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 13:36:48
+------------------------------------
+
+BUY:
+
+Fire_rune @ 4.0g 0.000 -> 0.400
+Thread @ 8.0g 0.000 -> 0.320
+Swamp_tar @ 6.0g 0.000 -> 0.447
+Rune_arrow @ 46.0g 0.000 -> 0.211
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.440
+Water_rune @ 5.0g 1.000 -> 0.640
+Earth_rune @ 5.0g 1.000 -> 0.720
+Feather @ 3.0g 1.000 -> 0.320
+Pure_essence @ 3.0g 1.000 -> 0.600
+Law_rune @ 115.0g 1.000 -> 0.763
+Coal @ 184.0g 0.889 -> 0.492
+Clay @ 94.0g 1.000 -> 0.744
+Plank @ 290.0g 1.000 -> 0.198
+Air_battlestaff @ 8880.0g 1.000 -> 0.628
+Ruby_dragon_bolts_(e) @ 942.0g 1.000 -> 0.720
+Prayer_potion(4) @ 8922.0g 0.518 -> 0.306
+
+------------------------------------
+
+Booker bought: 
+Booker sold: Earth_rune, Law_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 14:06:55
+------------------------------------
+
+BUY:
+
+Fire_rune @ 4.0g 0.000 -> 0.400
+Thread @ 8.0g 0.000 -> 0.240
+Rune_arrow @ 46.0g 0.000 -> 0.233
+Gold_ore @ 142.0g 0.000 -> 0.205
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.320
+Water_rune @ 5.0g 1.000 -> 0.640
+Earth_rune @ 5.0g 1.000 -> 0.640
+Feather @ 3.0g 1.000 -> 0.400
+Tuna @ 81.0g 0.667 -> 0.393
+Gold_bar @ 74.0g 1.000 -> 0.717
+Amethyst_arrow @ 164.0g 1.000 -> 0.793
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 185.0g 1.000 -> 0.476
+Clay @ 94.0g 1.000 -> 0.744
+Unpowered_orb @ 94.0g 1.000 -> 0.710
+Plank @ 288.0g 1.000 -> 0.145
+Ruby_dragon_bolts_(e) @ 938.0g 1.000 -> 0.720
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 14:37:02
+------------------------------------
+
+BUY:
+
+Earth_rune @ 4.0g 0.000 -> 0.560
+Feather @ 2.0g 0.000 -> 0.480
+Gold_ore @ 142.0g 0.000 -> 0.205
+Red_dragonhide @ 2280.0g 0.000 -> 0.237
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.280
+Water_rune @ 5.0g 1.000 -> 0.640
+Amethyst_arrow @ 163.0g 1.000 -> 0.791
+Coal @ 183.0g 0.778 -> 0.449
+Unpowered_orb @ 94.0g 1.000 -> 0.733
+Plank @ 288.0g 1.000 -> 0.135
+Ruby_dragon_bolts_(e) @ 933.0g 1.000 -> 0.724
+Ranarr_weed @ 6817.0g 0.960 -> 0.663
+
+------------------------------------
+
+Booker bought: Earth_rune, Feather, Red_dragonhide, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 15:07:09
+------------------------------------
+
+BUY:
+
+Water_rune @ 4.0g 0.000 -> 0.680
+Earth_rune @ 4.0g 0.000 -> 0.600
+Feather @ 2.0g 0.000 -> 0.440
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.280
+Air_rune @ 5.0g 1.000 -> 0.480
+Pure_essence @ 3.0g 1.000 -> 0.600
+Rune_arrow @ 48.0g 0.500 -> 0.090
+Clay @ 94.0g 1.000 -> 0.762
+Unpowered_orb @ 93.0g 1.000 -> 0.767
+Plank @ 288.0g 1.000 -> 0.139
+Air_battlestaff @ 8879.0g 0.875 -> 0.658
+Ruby_dragon_bolts_(e) @ 931.0g 1.000 -> 0.478
+Ranarr_weed @ 6824.0g 1.000 -> 0.721
+
+------------------------------------
+
+Booker bought: Water_rune, 
+Booker sold: Rune_arrow, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 15:37:16
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.440
+Water_rune @ 4.0g 0.000 -> 0.480
+Fire_rune @ 4.0g 0.000 -> 0.400
+Swamp_tar @ 9.0g 0.333 -> 0.600
+Adamant_dart_tip @ 192.0g 0.000 -> 0.491
+
+SELL
+
+Air_rune @ 5.0g 1.000 -> 0.400
+Earth_rune @ 5.0g 1.000 -> 0.760
+Feather @ 3.0g 1.000 -> 0.360
+Pure_essence @ 3.0g 1.000 -> 0.600
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 184.0g 0.889 -> 0.501
+Clay @ 94.0g 1.000 -> 0.762
+Broad_bolts @ 61.0g 0.750 -> 0.520
+Unpowered_orb @ 89.0g 1.000 -> 0.416
+Plank @ 286.0g 1.000 -> 0.152
+Air_battlestaff @ 8879.0g 0.875 -> 0.658
+Diamond_dragon_bolts_(e) @ 984.0g 0.815 -> 0.578
+Ranarr_weed @ 6824.0g 1.000 -> 0.655
+
+------------------------------------
+
+Booker bought: Mind_rune, Adamant_dart_tip, 
+Booker sold: Earth_rune, Feather, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 16:07:23
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.320
+Air_rune @ 4.0g 0.000 -> 0.520
+Fire_rune @ 4.0g 0.000 -> 0.400
+Pure_essence @ 2.0g 0.000 -> 0.360
+Adamant_dart_tip @ 192.0g 0.000 -> 0.491
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.480
+Earth_rune @ 5.0g 1.000 -> 0.760
+Feather @ 3.0g 1.000 -> 0.360
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 184.0g 0.889 -> 0.501
+Clay @ 94.0g 1.000 -> 0.799
+Plank @ 285.0g 1.000 -> 0.150
+Ranarr_weed @ 6818.0g 1.000 -> 0.655
+
+------------------------------------
+
+Booker bought: Air_rune, Pure_essence, 
+Booker sold: Water_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 16:37:30
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.480
+Pure_essence @ 2.0g 0.000 -> 0.440
+Rune_arrow @ 46.0g 0.000 -> 0.287
+Gold_ore @ 142.0g 0.000 -> 0.205
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.400
+Water_rune @ 5.0g 1.000 -> 0.600
+Earth_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.440
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 183.0g 0.778 -> 0.449
+Clay @ 89.0g 1.000 -> 0.792
+Broad_bolts @ 61.0g 0.750 -> 0.520
+Unpowered_orb @ 87.0g 0.714 -> 0.404
+Logs @ 39.0g 0.600 -> 0.337
+Diamond_dragon_bolts_(e) @ 984.0g 0.815 -> 0.578
+
+------------------------------------
+
+Booker bought: Rune_arrow, 
+Booker sold: Mind_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 17:07:37
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.480
+Pure_essence @ 2.0g 0.000 -> 0.560
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.320
+Water_rune @ 5.0g 1.000 -> 0.640
+Earth_rune @ 5.0g 1.000 -> 0.680
+Feather @ 3.0g 1.000 -> 0.400
+Maple_logs @ 8.0g 1.000 -> 0.720
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 183.0g 0.778 -> 0.461
+Clay @ 85.0g 1.000 -> 0.762
+Unpowered_orb @ 86.0g 0.571 -> 0.340
+Ruby_dragon_bolts_(e) @ 924.0g 0.868 -> 0.668
+Ranarr_potion_(unf) @ 6958.0g 0.813 -> 0.582
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 17:37:44
+------------------------------------
+
+BUY:
+
+Air_rune @ 4.0g 0.000 -> 0.480
+Earth_rune @ 4.0g 0.000 -> 0.600
+Pure_essence @ 2.0g 0.000 -> 0.440
+Mithril_dart @ 5.0g 0.000 -> 0.280
+Tuna @ 75.0g 0.000 -> 0.227
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Feather @ 3.0g 1.000 -> 0.480
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Cannonball @ 140.0g 1.000 -> 0.784
+Oak_logs @ 55.0g 1.000 -> 0.705
+Coal @ 183.0g 0.778 -> 0.461
+Clay @ 84.0g 1.000 -> 0.799
+Iron_ore @ 82.0g 0.889 -> 0.632
+Blood_rune @ 406.0g 1.000 -> 0.707
+Plank @ 284.0g 1.000 -> 0.742
+Ranarr_potion_(unf) @ 6965.0g 0.879 -> 0.582
+
+------------------------------------
+
+Booker bought: Earth_rune, Tuna, 
+Booker sold: Blood_rune, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 18:07:50
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.400
+Earth_rune @ 4.0g 0.000 -> 0.720
+Feather @ 2.0g 0.000 -> 0.320
+Mithril_dart @ 5.0g 0.000 -> 0.280
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.600
+Pure_essence @ 3.0g 1.000 -> 0.680
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Cannonball @ 140.0g 1.000 -> 0.784
+Coal @ 184.0g 0.889 -> 0.492
+Clay @ 82.0g 1.000 -> 0.799
+Broad_bolts @ 61.0g 0.750 -> 0.520
+Blood_rune @ 406.0g 1.000 -> 0.707
+Plank @ 284.0g 1.000 -> 0.743
+Ranarr_potion_(unf) @ 6978.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Mind_rune, Feather, 
+Booker sold: Pure_essence, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 18:37:57
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.360
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.360
+Feather @ 2.0g 0.000 -> 0.360
+Mithril_dart @ 5.0g 0.000 -> 0.280
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.680
+Pure_essence @ 3.0g 1.000 -> 0.720
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Cannonball @ 140.0g 1.000 -> 0.784
+Coal @ 183.0g 0.778 -> 0.466
+Broad_bolts @ 61.0g 0.750 -> 0.520
+Plank @ 284.0g 1.000 -> 0.742
+Impling_jar @ 712.0g 0.810 -> 0.398
+Prayer_potion(4) @ 8919.0g 0.491 -> 0.281
+Ranarr_potion_(unf) @ 6969.0g 0.916 -> 0.582
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 19:08:04
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.400
+Air_rune @ 4.0g 0.000 -> 0.360
+Fire_rune @ 4.0g 0.000 -> 0.320
+Feather @ 2.0g 0.000 -> 0.480
+Pure_essence @ 2.0g 0.000 -> 0.480
+Mithril_dart @ 5.0g 0.000 -> 0.280
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.680
+Nature_rune @ 211.0g 1.000 -> 0.699
+Zulrah's_scales @ 176.0g 1.000 -> 0.680
+Tuna @ 82.0g 0.700 -> 0.444
+Cannonball @ 140.0g 1.000 -> 0.784
+Coal @ 185.0g 1.000 -> 0.486
+Broad_bolts @ 61.0g 0.750 -> 0.520
+Impling_jar @ 722.0g 0.968 -> 0.405
+Ranarr_weed @ 6797.0g 0.961 -> 0.669
+Prayer_potion(4) @ 8918.0g 0.482 -> 0.282
+Ranarr_potion_(unf) @ 6964.0g 0.869 -> 0.582
+
+------------------------------------
+
+Booker bought: Pure_essence, 
+Booker sold: Tuna, 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 20:30:53
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.480
+Water_rune @ 4.0g 0.000 -> 0.520
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.320
+Earth_rune @ 4.0g 0.000 -> 0.760
+Feather @ 2.0g 0.000 -> 0.400
+Pure_essence @ 2.0g 0.000 -> 0.480
+Steel_arrow @ 23.0g 0.000 -> 0.427
+Amethyst_arrow @ 157.0g 0.000 -> 0.330
+
+SELL
+
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Coal @ 183.0g 0.778 -> 0.449
+Snape_grass @ 263.0g 1.000 -> 0.747
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 714.0g 1.000 -> 0.378
+Ranarr_potion_(unf) @ 6978.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Mind_rune, Water_rune, Air_rune, Fire_rune, Earth_rune, Feather, Pure_essence, Steel_arrow, Amethyst_arrow, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 20:32:14
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.480
+Water_rune @ 4.0g 0.000 -> 0.520
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.320
+Earth_rune @ 4.0g 0.000 -> 0.760
+Feather @ 2.0g 0.000 -> 0.400
+Pure_essence @ 2.0g 0.000 -> 0.480
+Steel_arrow @ 23.0g 0.000 -> 0.427
+Amethyst_arrow @ 157.0g 0.000 -> 0.330
+
+SELL
+
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Coal @ 183.0g 0.778 -> 0.449
+Snape_grass @ 263.0g 1.000 -> 0.747
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 714.0g 1.000 -> 0.378
+Ranarr_potion_(unf) @ 6978.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: 
+Booker sold: Zulrah's_scales, Coal, Snape_grass, Unpowered_orb, Impling_jar, Ranarr_potion_(unf), 
+Ranarr_potion_(unf) +/ 6978.0
+Impling_jar +/ 714.0
+Snape_grass +/ 263.0
+Coal +/ 183.0
+Zulrah's_scales +/ 175.0
+Unpowered_orb +/ 86.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+
+------------------------------------
+2020-10-19 20:33:29
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.480
+Water_rune @ 4.0g 0.000 -> 0.520
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.320
+Earth_rune @ 4.0g 0.000 -> 0.760
+Feather @ 2.0g 0.000 -> 0.400
+Pure_essence @ 2.0g 0.000 -> 0.480
+Steel_arrow @ 23.0g 0.000 -> 0.427
+Amethyst_arrow @ 157.0g 0.000 -> 0.330
+
+SELL
+
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Coal @ 183.0g 0.778 -> 0.449
+Snape_grass @ 263.0g 1.000 -> 0.747
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 714.0g 1.000 -> 0.378
+Ranarr_potion_(unf) @ 6978.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Mind_rune, Water_rune, Air_rune, Fire_rune, Earth_rune, Feather, Pure_essence, Steel_arrow, Amethyst_arrow, 
+Booker sold: 
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+Trading_sticks +/ 0
+
+------------------------------------
+2020-10-19 21:03:36
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.240
+Water_rune @ 4.0g 0.000 -> 0.520
+Air_rune @ 4.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.320
+Pure_essence @ 2.0g 0.000 -> 0.480
+Maple_logs @ 7.0g 0.000 -> 0.680
+Mithril_dart @ 5.0g 0.000 -> 0.280
+Adamant_dart_tip @ 192.0g 0.000 -> 0.476
+
+SELL
+
+Feather @ 3.0g 1.000 -> 0.440
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Coal @ 183.0g 0.778 -> 0.449
+Snape_grass @ 262.0g 0.950 -> 0.747
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 704.0g 0.849 -> 0.378
+Ranarr_potion_(unf) @ 6964.0g 0.969 -> 0.582
+Ranging_potion(4) @ 421.0g 0.952 -> 0.738
+
+------------------------------------
+
+Booker bought: Maple_logs, Mithril_dart, Adamant_dart_tip, 
+Booker sold: Feather, 
+Feather +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+
+------------------------------------
+2020-10-19 21:33:43
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.240
+Water_rune @ 4.0g 0.000 -> 0.680
+Air_rune @ 4.0g 0.000 -> 0.520
+Fire_rune @ 4.0g 0.000 -> 0.320
+Maple_logs @ 7.0g 0.000 -> 0.560
+Tuna @ 77.0g 0.200 -> 0.453
+Adamant_dart_tip @ 192.0g 0.000 -> 0.476
+
+SELL
+
+Feather @ 3.0g 1.000 -> 0.440
+Zulrah's_scales @ 175.0g 0.917 -> 0.657
+Coal @ 183.0g 0.778 -> 0.459
+Snape_grass @ 263.0g 1.000 -> 0.747
+Unpowered_orb @ 87.0g 0.952 -> 0.682
+Impling_jar @ 711.0g 0.981 -> 0.378
+Ranarr_weed @ 6803.0g 1.000 -> 0.710
+Ranarr_potion_(unf) @ 6967.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Tuna, 
+Booker sold: 
+Feather +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+
+------------------------------------
+2020-10-19 22:04:00
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.240
+Water_rune @ 4.0g 0.000 -> 0.560
+Feather @ 2.0g 0.000 -> 0.320
+Mithril_dart @ 5.0g 0.000 -> 0.280
+
+SELL
+
+Nature_rune @ 210.0g 1.000 -> 0.755
+Law_rune @ 115.0g 1.000 -> 0.763
+Zulrah's_scales @ 175.0g 0.917 -> 0.653
+Snape_grass @ 261.0g 1.000 -> 0.747
+Unpowered_orb @ 84.0g 0.881 -> 0.649
+Impling_jar @ 712.0g 1.000 -> 0.378
+Ranarr_weed @ 6802.0g 1.000 -> 0.659
+Ranarr_potion_(unf) @ 6935.0g 0.800 -> 0.582
+
+------------------------------------
+
+Booker bought: Feather, 
+Booker sold: 
+Feather +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+Jug_of_wine +/ 0
+Bronze_bolts +/ 0
+
+------------------------------------
+2020-10-19 22:34:16
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.240
+Air_rune @ 4.0g 0.000 -> 0.400
+Feather @ 2.0g 0.000 -> 0.320
+Mithril_dart @ 5.0g 0.000 -> 0.418
+Gold_bar @ 65.0g 0.000 -> 0.347
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Maple_logs @ 8.0g 1.000 -> 0.760
+Zulrah's_scales @ 175.0g 0.917 -> 0.653
+Snape_grass @ 256.0g 1.000 -> 0.747
+Unpowered_orb @ 84.0g 0.881 -> 0.649
+Impling_jar @ 698.0g 0.929 -> 0.378
+Mahogany_plank @ 2222.0g 0.944 -> 0.731
+Ranarr_weed @ 6787.0g 0.993 -> 0.712
+Ranarr_potion_(unf) @ 6935.0g 0.800 -> 0.582
+
+------------------------------------
+
+Booker bought: Gold_bar, 
+Booker sold: Water_rune, Maple_logs, 
+Water_rune +/ 1.0
+Feather +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+
+------------------------------------
+2020-10-19 23:04:34
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.520
+Air_rune @ 4.0g 0.000 -> 0.280
+Feather @ 2.0g 0.000 -> 0.320
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.520
+Zulrah's_scales @ 176.0g 1.000 -> 0.680
+Snape_grass @ 256.0g 1.000 -> 0.747
+Unpowered_orb @ 85.0g 0.905 -> 0.661
+Impling_jar @ 701.0g 1.000 -> 0.378
+Ruby_dragon_bolts_(e) @ 929.0g 0.956 -> 0.478
+Ranarr_weed @ 6788.0g 1.000 -> 0.698
+Ranarr_potion_(unf) @ 6935.0g 0.800 -> 0.582
+
+------------------------------------
+
+Booker bought: 
+Booker sold: 
+Water_rune +/ 1.0
+Feather +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+Rune_essence +/ 0
+
+------------------------------------
+2020-10-19 23:34:42
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.520
+Feather @ 2.0g 0.000 -> 0.240
+Flax @ 5.0g 0.333 -> 0.540
+Yew_logs @ 267.0g 0.015 -> 0.330
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.480
+Air_rune @ 5.0g 1.000 -> 0.400
+Zulrah's_scales @ 175.0g 1.000 -> 0.673
+Snape_grass @ 255.0g 1.000 -> 0.747
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 697.0g 1.000 -> 0.378
+Ruby_dragon_bolts_(e) @ 931.0g 1.000 -> 0.478
+Ranarr_potion_(unf) @ 6939.0g 0.850 -> 0.582
+
+------------------------------------
+
+Booker bought: Flax, Yew_logs, 
+Booker sold: Air_rune, 
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Feather +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+Efh_salt +/ 0
+
+------------------------------------
+2020-10-20 00:04:49
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.520
+Fire_rune @ 4.0g 0.000 -> 0.360
+Feather @ 2.0g 0.000 -> 0.240
+Flax @ 5.0g 0.333 -> 0.540
+Cannonball @ 137.0g 0.000 -> 0.383
+Yew_logs @ 266.0g 0.000 -> 0.362
+Adamant_dart_tip @ 192.0g 0.250 -> 0.491
+
+SELL
+
+Air_rune @ 5.0g 1.000 -> 0.400
+Earth_rune @ 5.0g 1.000 -> 0.640
+Zulrah's_scales @ 175.0g 1.000 -> 0.673
+Unpowered_orb @ 86.0g 0.929 -> 0.682
+Impling_jar @ 689.0g 0.811 -> 0.398
+Ranarr_potion_(unf) @ 6939.0g 0.850 -> 0.582
+
+------------------------------------
+
+Booker bought: Cannonball, 
+Booker sold: Earth_rune, 
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Earth_rune +/ 1.0
+Feather +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+
+------------------------------------
+2020-10-20 00:34:57
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.520
+Fire_rune @ 4.0g 0.000 -> 0.360
+Feather @ 2.0g 0.000 -> 0.240
+Cannonball @ 137.0g 0.000 -> 0.388
+Yew_logs @ 268.0g 0.031 -> 0.292
+Swordfish @ 408.0g 0.000 -> 0.285
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.640
+Air_rune @ 5.0g 1.000 -> 0.400
+Earth_rune @ 5.0g 1.000 -> 0.640
+Zulrah's_scales @ 175.0g 1.000 -> 0.673
+Astral_rune @ 164.0g 1.000 -> 0.724
+Oak_logs @ 55.0g 1.000 -> 0.705
+Snape_grass @ 254.0g 1.000 -> 0.747
+Unpowered_orb @ 84.0g 0.881 -> 0.649
+Impling_jar @ 688.0g 0.784 -> 0.398
+
+------------------------------------
+
+Booker bought: Swordfish, 
+Booker sold: 
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Earth_rune +/ 1.0
+Feather +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+
+------------------------------------
+2020-10-20 01:05:05
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.360
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.680
+Air_rune @ 5.0g 1.000 -> 0.400
+Earth_rune @ 5.0g 1.000 -> 0.640
+Feather @ 3.0g 1.000 -> 0.440
+Zulrah's_scales @ 175.0g 1.000 -> 0.673
+Oak_logs @ 55.0g 1.000 -> 0.705
+Unpowered_orb @ 84.0g 0.881 -> 0.649
+Impling_jar @ 692.0g 0.892 -> 0.378
+Mahogany_plank @ 2223.0g 1.000 -> 0.731
+
+------------------------------------
+
+Booker bought: 
+Booker sold: Feather, 
+Feather +/ 1.5
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Earth_rune +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+Saltpetre +/ 0
+
+------------------------------------
+2020-10-20 01:35:13
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Fire_rune @ 4.0g 0.000 -> 0.360
+Mithril_dart @ 5.0g 0.000 -> 0.398
+Chaos_rune @ 51.0g 0.000 -> 0.315
+Gold_ore @ 142.0g 0.000 -> 0.205
+Swordfish @ 412.0g 0.000 -> 0.283
+
+SELL
+
+Air_rune @ 5.0g 1.000 -> 0.440
+Earth_rune @ 5.0g 1.000 -> 0.640
+Feather @ 3.0g 1.000 -> 0.360
+Pure_essence @ 3.0g 1.000 -> 0.680
+Zulrah's_scales @ 175.0g 1.000 -> 0.680
+Oak_logs @ 55.0g 1.000 -> 0.705
+Snape_grass @ 251.0g 1.000 -> 0.747
+Impling_jar @ 696.0g 1.000 -> 0.378
+
+------------------------------------
+
+Booker bought: Chaos_rune, Gold_ore, 
+Booker sold: Pure_essence, 
+Feather +/ 1.5
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Earth_rune +/ 1.0
+Pure_essence +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+
+------------------------------------
+2020-10-20 02:05:21
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.480
+Air_rune @ 4.0g 0.000 -> 0.480
+Fire_rune @ 4.0g 0.000 -> 0.360
+Rune_arrow @ 48.0g 0.250 -> 0.529
+Law_rune @ 111.0g 0.000 -> 0.246
+Mithril_dart @ 5.0g 0.000 -> 0.398
+Chaos_rune @ 51.0g 0.000 -> 0.295
+Gold_ore @ 142.0g 0.000 -> 0.202
+
+SELL
+
+Earth_rune @ 5.0g 1.000 -> 0.640
+Feather @ 3.0g 1.000 -> 0.360
+Zulrah's_scales @ 174.0g 0.909 -> 0.665
+Adamant_dart @ 93.0g 0.882 -> 0.658
+Oak_logs @ 55.0g 1.000 -> 0.713
+Impling_jar @ 688.0g 0.935 -> 0.405
+Adamantite_ore @ 994.0g 1.000 -> 0.759
+Ranarr_potion_(unf) @ 6951.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Air_rune, Rune_arrow, Law_rune, 
+Booker sold: 
+Feather +/ 1.5
+Water_rune +/ 1.0
+Air_rune +/ 1.0
+Earth_rune +/ 1.0
+Pure_essence +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+Bronze_arrowtips +/ 0
+
+------------------------------------
+2020-10-20 02:35:29
+------------------------------------
+
+BUY:
+
+Pure_essence @ 2.0g 0.000 -> 0.440
+Maple_logs @ 7.0g 0.000 -> 0.680
+Law_rune @ 111.0g 0.000 -> 0.236
+Tuna @ 75.0g 0.000 -> 0.208
+Amethyst_arrow @ 159.0g 0.000 -> 0.235
+Chaos_rune @ 52.0g 0.000 -> 0.308
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.520
+Water_rune @ 5.0g 1.000 -> 0.760
+Air_rune @ 5.0g 1.000 -> 0.400
+Earth_rune @ 5.0g 1.000 -> 0.640
+Zulrah's_scales @ 174.0g 0.909 -> 0.665
+Oak_logs @ 55.0g 1.000 -> 0.713
+Impling_jar @ 687.0g 0.903 -> 0.378
+Adamantite_ore @ 993.0g 1.000 -> 0.759
+Ranarr_potion_(unf) @ 6951.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Pure_essence, Maple_logs, 
+Booker sold: Mind_rune, Air_rune, 
+Air_rune +/ 1.5
+Feather +/ 1.5
+Mind_rune +/ 1.0
+Water_rune +/ 1.0
+Earth_rune +/ 1.0
+Pure_essence +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+
+------------------------------------
+2020-10-20 03:05:37
+------------------------------------
+
+BUY:
+
+Earth_rune @ 4.0g 0.000 -> 0.720
+Maple_logs @ 7.0g 0.000 -> 0.680
+Law_rune @ 111.0g 0.000 -> 0.220
+Tuna @ 75.0g 0.000 -> 0.253
+Amethyst_arrow @ 159.0g 0.000 -> 0.215
+Chaos_rune @ 53.0g 0.000 -> 0.334
+Cooked_karambwan @ 514.0g 0.000 -> 0.212
+
+SELL
+
+Mind_rune @ 4.0g 1.000 -> 0.520
+Water_rune @ 5.0g 1.000 -> 0.720
+Air_rune @ 5.0g 1.000 -> 0.400
+Zulrah's_scales @ 175.0g 1.000 -> 0.670
+Astral_rune @ 163.0g 1.000 -> 0.672
+Oak_logs @ 55.0g 1.000 -> 0.713
+Adamantite_ore @ 992.0g 1.000 -> 0.779
+Ranarr_potion_(unf) @ 6929.0g 1.000 -> 0.582
+
+------------------------------------
+
+Booker bought: Earth_rune, Cooked_karambwan, 
+Booker sold: 
+Air_rune +/ 1.5
+Feather +/ 1.5
+Mind_rune +/ 1.0
+Water_rune +/ 1.0
+Earth_rune +/ 1.0
+Pure_essence +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
+
+------------------------------------
+2020-10-20 03:35:45
+------------------------------------
+
+BUY:
+
+Mind_rune @ 3.0g 0.000 -> 0.280
+Earth_rune @ 4.0g 0.000 -> 0.720
+Maple_logs @ 7.0g 0.000 -> 0.560
+Law_rune @ 111.0g 0.000 -> 0.220
+Mithril_dart @ 5.0g 0.000 -> 0.408
+
+SELL
+
+Water_rune @ 5.0g 1.000 -> 0.760
+Air_rune @ 5.0g 1.000 -> 0.480
+Feather @ 3.0g 1.000 -> 0.360
+Nature_rune @ 210.0g 1.000 -> 0.727
+Zulrah's_scales @ 175.0g 1.000 -> 0.653
+Astral_rune @ 161.0g 0.933 -> 0.699
+Oak_logs @ 55.0g 1.000 -> 0.713
+Logs @ 39.0g 0.600 -> 0.337
+Ranarr_weed @ 6778.0g 0.985 -> 0.707
+Ranarr_potion_(unf) @ 6910.0g 0.800 -> 0.582
+
+------------------------------------
+
+Booker bought: Mind_rune, 
+Booker sold: 
+Air_rune +/ 1.5
+Feather +/ 1.5
+Mind_rune +/ 1.0
+Water_rune +/ 1.0
+Earth_rune +/ 1.0
+Pure_essence +/ 1.0
+Maple_logs +/ 1.0
+Onion_seed +/ 0
+Potato_seed +/ 0
+Arrow_shaft +/ 0
